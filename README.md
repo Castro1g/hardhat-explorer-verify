@@ -1,4 +1,4 @@
-# @okxweb3/hardhat-explorer-verify
+52640135152f31e7cf458209244b5d0986d31f34# @okxweb3/hardhat-explorer-verify
 
 [English](./README.md)
 [Chinese](./README_ZH.md)
